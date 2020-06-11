@@ -5,12 +5,12 @@
   "description": "Video Playback Performance",
   "scripts": {
     "start": "http-server -p 8081 --cors",
-    "test:chrome": "node index.js --browsers Chrome",
-    "test:chromeCanary": "node index.js --browsers ChromeCanary",
-    "test:firefox": "node index.js --browsers Firefox",
-    "test:safari": "node index.js --browsers Safari",
-    "test:edge": "node index.js --browsers Edge",
-    "test:ie": "node index.js --browsers IE"
+    "test:chrome": "node index.js --browser Chrome",
+    "test:chromeCanary": "node index.js --browser ChromeCanary",
+    "test:firefox": "node index.js --browser Firefox",
+    "test:safari": "node index.js --browser Safari",
+    "test:edge": "node index.js --browser Edge",
+    "test:ie": "node index.js --browser IE"
   },
   "author": "Aqours",
   "license": "MIT",

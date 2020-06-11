@@ -1,0 +1,1 @@
+self.karma = top.karma;
