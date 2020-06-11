@@ -1,0 +1,47 @@
+{
+  "name": "video-playback-performance",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Video Playback Performance",
+  "scripts": {
+    "start": "http-server -p 8081 --cors",
+    "test:chrome": "node index.js --browsers Chrome",
+    "test:chromeCanary": "node index.js --browsers ChromeCanary",
+    "test:firefox": "node index.js --browsers Firefox",
+    "test:safari": "node index.js --browsers Safari",
+    "test:edge": "node index.js --browsers Edge",
+    "test:ie": "node index.js --browsers IE"
+  },
+  "author": "Aqours",
+  "license": "MIT",
+  "prettier": {
+    "singleQuote": false,
+    "trailingComma": "all"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "dependencies": {
+    "@commitlint/cli": "8.3.5",
+    "@commitlint/config-conventional": "8.3.4",
+    "@types/karma": "5.0.0",
+    "@types/node": "14.0.13",
+    "@types/yargs": "15.0.5",
+    "gpu-z": "0.1.4",
+    "http-server": "0.12.3",
+    "husky": "4.2.5",
+    "karma": "5.0.9",
+    "karma-chrome-launcher": "3.1.0",
+    "karma-edge-launcher": "0.4.2",
+    "karma-firefox-launcher": "1.3.0",
+    "karma-ie-launcher": "1.0.0",
+    "karma-safari-launcher": "1.0.0",
+    "prettier": "2.0.5",
+    "pretty-quick": "2.0.1",
+    "systeminformation": "4.26.9",
+    "yargs": "15.3.1"
+  }
+}
