@@ -28,6 +28,7 @@ function getPlaybackQualityWhenDebugEnded() {
 }
 
 function debugCompleteCallback() {
+    const error = video.error ? video.error.message : null;
     const filename = getVideoAssetFilename();
     const playbackQuality = getPlaybackQualityWhenDebugEnded();
 
@@ -36,7 +37,7 @@ function debugCompleteCallback() {
         karma["complete"](
             Object.assign(
                 {
-                    error: video.error,
+                    error: error,
                     filename: filename,
                     userAgent: navigator.userAgent,
                 },
