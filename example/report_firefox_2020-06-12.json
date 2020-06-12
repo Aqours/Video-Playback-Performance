@@ -1,0 +1,611 @@
+{
+  "name": "report_firefox_2020-06-12.json",
+  "browser": "Firefox",
+  "systemDetails": {
+    "cpu": "Intel® Core™ i9-9900K",
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "os": "Microsoft Windows 10 רҵ��(10.0.19041,x64)"
+  },
+  "deviceLoadDetails": [
+    {
+      "cpu": {
+        "avg": 9.678432508056654,
+        "min": 5.356845782731658,
+        "max": 30.533231411276162
+      },
+      "gpu": {
+        "avg": 13.785714285714286,
+        "min": 5,
+        "max": 33
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "1080p30fps_10M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/1080p30fps_10M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 9004,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 9.074014645016847,
+        "min": 4.320525615435795,
+        "max": 30.72823787998175
+      },
+      "gpu": {
+        "avg": 16.122448979591837,
+        "min": 8,
+        "max": 19
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "1080p30fps_5M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/1080p30fps_5M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 9004,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 13.20476510421348,
+        "min": 5.230082275602597,
+        "max": 36.08445694432956
+      },
+      "gpu": {
+        "avg": 32.36734693877551,
+        "min": 15,
+        "max": 37
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "1080p60fps_10M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/1080p60fps_10M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 18005,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 12.210640956653169,
+        "min": 6.257618014667907,
+        "max": 34.802374823548945
+      },
+      "gpu": {
+        "avg": 31.887755102040817,
+        "min": 11,
+        "max": 39
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "1080p60fps_5M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/1080p60fps_5M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 18009,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 7.2071222465850715,
+        "min": 4.396082247944837,
+        "max": 27.72894457951499
+      },
+      "gpu": {
+        "avg": 15.785714285714286,
+        "min": 8,
+        "max": 24
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "480p30fps_3M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/480p30fps_3M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 9003,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 6.915971749263289,
+        "min": 3.8751033912324235,
+        "max": 28.401349980330043
+      },
+      "gpu": {
+        "avg": 15.948979591836734,
+        "min": 6,
+        "max": 17
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "480p30fps_4M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/480p30fps_4M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 9006,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 7.792434898754666,
+        "min": 3.998593355674155,
+        "max": 27.795898863565537
+      },
+      "gpu": {
+        "avg": 25.367346938775512,
+        "min": 12,
+        "max": 27
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "480p60fps_4M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/480p60fps_4M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 18016,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 8.11009966022551,
+        "min": 4.351234809878479,
+        "max": 27.42005408864758
+      },
+      "gpu": {
+        "avg": 25.346938775510203,
+        "min": 8,
+        "max": 27
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "480p60fps_5M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/480p60fps_5M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 18013,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 50.87572195460612,
+        "min": 3.8754725556221206,
+        "max": 85.808076637212
+      },
+      "gpu": {
+        "avg": 23.53061224489796,
+        "min": 0,
+        "max": 50
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "4k120fps_10M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/4k120fps_10M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 36025,
+      "droppedVideoFrames": 16040,
+      "droppedVideoFramesPercentage": 44.52463566967384
+    },
+    {
+      "cpu": {
+        "avg": 41.12765690045669,
+        "min": 3.911909591422776,
+        "max": 80.19644334160463
+      },
+      "gpu": {
+        "avg": 11.292929292929292,
+        "min": 0,
+        "max": 44
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "4k120fps_20M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/4k120fps_20M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 36615,
+      "droppedVideoFrames": 28131,
+      "droppedVideoFramesPercentage": 76.82916837361738
+    },
+    {
+      "cpu": {
+        "avg": 16.505741178977114,
+        "min": 10.281072771464778,
+        "max": 42.240148929568726
+      },
+      "gpu": {
+        "avg": 28.79591836734694,
+        "min": 19,
+        "max": 31
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "4k30fps_10M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/4k30fps_10M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 9000,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 18.397718797267338,
+        "min": 11.272524384195735,
+        "max": 44.54263791561831
+      },
+      "gpu": {
+        "avg": 28.744897959183675,
+        "min": 17,
+        "max": 30
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "4k30fps_20M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/4k30fps_20M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 9003,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 14.785586549328531,
+        "min": 10.848634822932478,
+        "max": 37.19879204415287
+      },
+      "gpu": {
+        "avg": 28.867346938775512,
+        "min": 13,
+        "max": 31
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "4k30fps_5M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/4k30fps_5M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 9006,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 27.478577337734794,
+        "min": 18.606043094196316,
+        "max": 56.27813388097165
+      },
+      "gpu": {
+        "avg": 29.01010101010101,
+        "min": 25,
+        "max": 33
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "4k60fps_10M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/4k60fps_10M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 18014,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 31.004617817278675,
+        "min": 19.894573643410855,
+        "max": 61.88050119084602
+      },
+      "gpu": {
+        "avg": 29.132653061224488,
+        "min": 25,
+        "max": 35
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "4k60fps_20M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/4k60fps_20M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 18014,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 24.78265118191803,
+        "min": 16.022179764080413,
+        "max": 51.09537279841424
+      },
+      "gpu": {
+        "avg": 29,
+        "min": 25,
+        "max": 33
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "4k60fps_5M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/4k60fps_5M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 18002,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 8.239739084827434,
+        "min": 4.522079490329163,
+        "max": 35.09745252046711
+      },
+      "gpu": {
+        "avg": 17.132653061224488,
+        "min": 8,
+        "max": 30
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "720p30fps_3M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/720p30fps_3M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 9001,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 7.709448231572226,
+        "min": 3.721488595438175,
+        "max": 28.645833333333332
+      },
+      "gpu": {
+        "avg": 16.632653061224488,
+        "min": 5,
+        "max": 17
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "720p30fps_4M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/720p30fps_4M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 9003,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 9.419320489374766,
+        "min": 5.330962178705102,
+        "max": 29.172038092069698
+      },
+      "gpu": {
+        "avg": 27.091836734693878,
+        "min": 11,
+        "max": 28
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "720p60fps_4M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/720p60fps_4M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 18002,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 9.315245495995052,
+        "min": 5.472080798046277,
+        "max": 28.907713441285438
+      },
+      "gpu": {
+        "avg": 27.112244897959183,
+        "min": 13,
+        "max": 29
+      },
+      "gve": {
+        "avg": 0,
+        "min": 0,
+        "max": 0
+      },
+      "error": null,
+      "filename": "720p60fps_5M_wzav1.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/720p60fps_5M_wzav1.mp4",
+      "description": "Group 1",
+      "totalVideoFrames": 18006,
+      "droppedVideoFrames": 0,
+      "droppedVideoFramesPercentage": 0
+    },
+    {
+      "cpu": {
+        "avg": 8.357494088796324,
+        "min": 4.060945145240209,
+        "max": 29.017369624791378
+      },
+      "gpu": {
+        "avg": 9.071428571428571,
+        "min": 8,
+        "max": 10
+      },
+      "gve": {
+        "avg": 69.48979591836735,
+        "min": 66,
+        "max": 72
+      },
+      "error": null,
+      "filename": "x264_4k120fps_20mb.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/x264_4k120fps_20mb.mp4",
+      "description": "Group 2",
+      "totalVideoFrames": 36006,
+      "droppedVideoFrames": 55,
+      "droppedVideoFramesPercentage": 0.1527523190579348
+    },
+    {
+      "cpu": {
+        "avg": 7.975135740398731,
+        "min": 3.8751033912324235,
+        "max": 27.153487985366258
+      },
+      "gpu": {
+        "avg": 9.051020408163266,
+        "min": 8,
+        "max": 10
+      },
+      "gve": {
+        "avg": 69.46938775510205,
+        "min": 64,
+        "max": 72
+      },
+      "error": null,
+      "filename": "x264_4k120fps_40mb.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/x264_4k120fps_40mb.mp4",
+      "description": "Group 2",
+      "totalVideoFrames": 36012,
+      "droppedVideoFrames": 55,
+      "droppedVideoFramesPercentage": 0.15272686882150394
+    },
+    {
+      "cpu": {
+        "avg": 8.04080312182271,
+        "min": 4.5323904637842976,
+        "max": 26.173967199501764
+      },
+      "gpu": {
+        "avg": 8.877551020408163,
+        "min": 8,
+        "max": 10
+      },
+      "gve": {
+        "avg": 68.95918367346938,
+        "min": 63,
+        "max": 71
+      },
+      "error": null,
+      "filename": "yavc_4k120fps_20mb.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/yavc_4k120fps_20mb.mp4",
+      "description": "Group 2",
+      "totalVideoFrames": 36009,
+      "droppedVideoFrames": 42,
+      "droppedVideoFramesPercentage": 0.11663750728984422
+    },
+    {
+      "cpu": {
+        "avg": 8.67905434664928,
+        "min": 4.232169452258812,
+        "max": 28.472871599858696
+      },
+      "gpu": {
+        "avg": 8.918367346938776,
+        "min": 8,
+        "max": 10
+      },
+      "gve": {
+        "avg": 69.12244897959184,
+        "min": 64,
+        "max": 71
+      },
+      "error": null,
+      "filename": "yavc_4k120fps_40mb.mp4",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0",
+      "url": "./dist/yavc_4k120fps_40mb.mp4",
+      "description": "Group 2",
+      "totalVideoFrames": 36000,
+      "droppedVideoFrames": 62,
+      "droppedVideoFramesPercentage": 0.17222222222222222
+    }
+  ]
+}
