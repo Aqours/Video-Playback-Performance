@@ -104,6 +104,9 @@ function startKarmaServer() {
              */
             attachments: {
                 videoAsset: videoAsset,
+                /**
+                 * @desc Complete testing if video.currentTime > debugEndedTime.
+                 */
                 debugEndedTime: Infinity,
                 debugProgressContent: `${runtimeCaches.currentVideoAssetIndex}/${config.assets.length}`,
             },
