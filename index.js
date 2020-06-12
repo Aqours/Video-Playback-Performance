@@ -45,7 +45,7 @@ function generateCollector(interval = 3000) {
                 const gpuSensors = gpuData["sensors"];
 
                 if (gpuSensors && gpuSensors["GPU Load"]) dcl.gpu.push(gpuSensors["GPU Load"].value);
-                if (gpuSensors && gpuSensors["Video Engine Load"]) dcl.gpu.push(gpuSensors["Video Engine Load"].value);
+                if (gpuSensors && gpuSensors["Video Engine Load"]) dcl.gve.push(gpuSensors["Video Engine Load"].value);
 
                 systemInformation.currentLoad().then((details) => dcl.cpu.push(details.currentload));
             }, interval);
