@@ -41,7 +41,7 @@
     "karma-safari-launcher": "1.0.0",
     "prettier": "2.0.5",
     "pretty-quick": "2.0.1",
-    "systeminformation": "4.26.9",
+    "systeminformation": "4.27.11",
     "yargs": "15.3.1"
   }
 }
